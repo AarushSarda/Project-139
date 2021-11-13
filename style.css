@@ -1,0 +1,15 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+#Instructions {
+    float:right;
+    border: 1px solid whitesmoke;
+}
+#start , #status , #restart{
+    font-size: 22px;}
+    h4 {
+        background-color: yellowgreen;
+        color: whitesmoke;
+        line-height: 2;
+    }
